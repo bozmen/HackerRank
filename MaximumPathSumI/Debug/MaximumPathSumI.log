@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\maximumpathsumi\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\maximumpathsumi\main.cpp(36): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  MaximumPathSumI.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\MaximumPathSumI.exe
+  MaximumPathSumI.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\MaximumPathSumI.pdb (Partial PDB)

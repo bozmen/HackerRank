@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\amicables\main.cpp(28): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\amicables\main.cpp(31): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Amicables.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\Amicables.exe
+  Amicables.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\Amicables.pdb (Partial PDB)

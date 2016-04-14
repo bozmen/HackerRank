@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(22): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(27): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(31): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(33): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(50): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(52): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(55): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\collatz\main.cpp(60): warning C4244: 'argument': conversion from '__int64' to 'unsigned int', possible loss of data
+  Collatz.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\Collatz.exe
+  Collatz.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\Collatz.pdb (Partial PDB)

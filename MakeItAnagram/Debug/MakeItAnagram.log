@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppClean.targets(76,5): warning : Access to the path 'c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\debug\makeitanagram.exe' is denied.
+  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\makeitanagram\main.cpp(18): warning C4018: '<': signed/unsigned mismatch
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\makeitanagram\main.cpp(22): warning C4018: '<': signed/unsigned mismatch
+LINK : fatal error LNK1104: cannot open file 'C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\MakeItAnagram.exe'

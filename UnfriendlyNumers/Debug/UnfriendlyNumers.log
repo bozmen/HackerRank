@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\unfriendlynumers\main.cpp(28): warning C4018: '<': signed/unsigned mismatch
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\unfriendlynumers\main.cpp(33): warning C4244: 'initializing': conversion from 'const __int64' to 'int', possible loss of data
+  UnfriendlyNumers.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\UnfriendlyNumers.exe
+  UnfriendlyNumers.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\UnfriendlyNumers.pdb (Partial PDB)

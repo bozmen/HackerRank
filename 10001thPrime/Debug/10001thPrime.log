@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\10001thprime\main.cpp(17): warning C4018: '<=': signed/unsigned mismatch
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\10001thprime\main.cpp(22): warning C4018: '>': signed/unsigned mismatch
+c:\users\burak\onedrive\belgeler\visual studio 2015\projects\hackerrank\10001thprime\main.cpp(24): warning C4018: '<': signed/unsigned mismatch
+  10001thPrime.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\10001thPrime.exe
+  10001thPrime.vcxproj -> C:\Users\burak\OneDrive\Belgeler\Visual Studio 2015\Projects\HackerRank\Debug\10001thPrime.pdb (Partial PDB)
